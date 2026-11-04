@@ -10,7 +10,7 @@
  * - Element, License: CC0 (required by "Element.prototype.classList")
  * - Element.prototype.classList, License: CC0
  *
- * @build      https://cdn.polyfill.io/v2/polyfill.js?features=Element.prototype.classList&flags=always,gated
+ * @build      polyfill service features=Element.prototype.classList&flags=always,gated
  * 
  * @copyright  Copyright (c) 2016 Financial Times
  * @license    MIT License, https://github.com/Financial-Times/polyfill-service/blob/master/LICENSE.md
